@@ -1,0 +1,1 @@
+"""nodoapp-clean tests."""
