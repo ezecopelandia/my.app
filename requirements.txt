@@ -1,4 +1,4 @@
--e git+file:///home/ubuntu/gitprojects/my.app#egg=my.app
+-e https://github.com/ezecopelandia/my.app.git#egg=my.app
 alembic==0.9.6
 amqp==2.2.2
 appnope==0.1.0
