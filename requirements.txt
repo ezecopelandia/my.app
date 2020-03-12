@@ -64,7 +64,7 @@ port-for==0.4
 poyo==0.4.1
 premailer==3.1.1
 prompt-toolkit==1.0.15
-psutil==5.4.2
+psutil==5.6.6
 psycopg2==2.7.3.2
 ptyprocess==0.5.2
 pycparser==2.18
