@@ -68,7 +68,7 @@ psutil==5.4.2
 psycopg2==2.7.3.2
 ptyprocess==0.5.2
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pyramid==1.9.1
 pyramid-debugtoolbar==4.3
 pyramid-jinja2==2.7
